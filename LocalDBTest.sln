@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdeasConsole", "IdeasConsol
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{70422875-CD6D-4F89-88B1-E8A382A48B6F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminModule", "AdminModule\AdminModule.csproj", "{D9D61863-4C2A-4240-97F6-725709844BBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{060A46E6-821B-4F59-A728-1B2AFDF33ED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{060A46E6-821B-4F59-A728-1B2AFDF33ED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{060A46E6-821B-4F59-A728-1B2AFDF33ED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9D61863-4C2A-4240-97F6-725709844BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D61863-4C2A-4240-97F6-725709844BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D61863-4C2A-4240-97F6-725709844BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D61863-4C2A-4240-97F6-725709844BBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
